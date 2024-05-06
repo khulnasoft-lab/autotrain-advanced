@@ -15,7 +15,7 @@ sacremoses==0.1.1
 scikit-learn==1.4.2
 sentencepiece==0.2.0
 tqdm==4.66.2
-werkzeug==3.0.2
+werkzeug==3.0.3
 xgboost==2.0.3
 huggingface_hub==0.22.2
 requests==2.31.0
